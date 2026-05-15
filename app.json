@@ -1,0 +1,67 @@
+{
+  "expo": {
+    "name": "Budgeto",
+    "slug": "budgeto",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.budgeto.app"
+    },
+    "android": {
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.budgeto.app",
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/icon.png",
+      "bundler": "metro"
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "plugins": [
+      "expo-sqlite",
+      "expo-font",
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "enableProguardInReleaseBuilds": true,
+            "enableShrinkResourcesInReleaseBuilds": true,
+            "enableSeparateBuildPerCPUArchitecture": true,
+            "enableMinifyInReleaseBuilds": true
+          }
+        }
+      ],
+      "@react-native-community/datetimepicker"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "fcb42399-7b9b-48dc-b685-cbe3ca619c4e"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f2f1a5c3-05e4-446f-a38c-e9ab9285e435"
+    },
+    "owner": "sahlnexbex"
+  }
+}

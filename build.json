@@ -1,0 +1,53 @@
+[
+  {
+    "id": "c0b680ec-91f6-43cb-833a-a5877786adc8",
+    "status": "FINISHED",
+    "platform": "ANDROID",
+    "artifacts": {
+      "buildUrl": "https://expo.dev/artifacts/eas/pNe9qpX6WACr6doFk7N1mh.apk",
+      "applicationArchiveUrl": "https://expo.dev/artifacts/eas/pNe9qpX6WACr6doFk7N1mh.apk"
+    },
+    "fingerprint": {
+      "id": "019c7ee1-effc-752c-a04c-5c06a6a077f9",
+      "hash": "7ac84de335ad22f2d3a087d7dca41ae7019b5ae0"
+    },
+    "initiatingActor": {
+      "id": "3f5147c7-9eef-48dd-84e5-0dfdd880916f",
+      "displayName": "adnanc"
+    },
+    "logFiles": [
+      "https://job-logs.eascdn.net/production/c0b680ec-91f6-43cb-833a-a5877786adc8/1771655262490-a0bce219-8f4d-46db-98d3-3be1a648b47e.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260221%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260221T071838Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=400cda33d6eb14268204949740f1c1d41e2d48923fb3c0d024fa89a39c9ace6d8f71242cc8a3b2b4ac561af781623ea590af4f52e17c175ed95e7726cdd2bb8bb98d7bca039f009334a2e234122494b305c072893f3630c554aa5c41df62ad3d334822a11fe00b5ed9e0589fef8cb6f7372905e9211e2d8bd79a01ac3ca4e6398ed62efe45d9bb9c6d3148dd6fbe28fa80b44aafeef8c134ef15f7eb8b5c2ea4fedfa4a18c53ee528b920944b3bcf23e5d5694639739cb72e324f1ef37a691f1bb6ead39814f58818ffadddf7501410f1e25bfe5017f23477b3f290c23afab345c530577e6a6f2e0e41c1a058b4fa5ed3c8fa105be22a09765c74ef5665cef99",
+      "https://job-logs.eascdn.net/production/c0b680ec-91f6-43cb-833a-a5877786adc8/1771655264532-5b01997b-1f62-4870-a06c-8690fd358fd1.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260221%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260221T071838Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=63aef4bb420eb9f42ce34101c842fa01628ae36847377412716026b960c30e57d67364d74b0ecb49f5c6d3e709864f4574057ba16ee1fbdbab13129d30665764174bbcd01de3ba54e63a8facc4c75eec817480070ce4f5fbdc624004a7f97e0e9878bc86164c8613a8f71aa6f3d2b0fe9303d9fbf2278e11d0924f24d292b4c2c1a2b852bfce998e260046989f6fdf758bfa6f9651db385d4103d06023d2af42db994515f460c77ddeb5007bac0d5cf0fcaef240f5390c050e97b90dd9b1b71ab16e0303954701c80dc7f4270eacc71b2b9a38e72f406ce76dec4df005da361d25819fcbebaee09f2fbd717b835fa7f168951c5c2fef8c595a7b6d1935cd1386",
+      "https://job-logs.eascdn.net/production/c0b680ec-91f6-43cb-833a-a5877786adc8/1771655264741-288c5c84-efa9-461e-be29-c736be158311.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260221%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260221T071838Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=aab88b962dde98b970ce8adfbe12888be164eba531ded0cbfbb0a37c41ff620a095fdd690081aa6635638af0ef2e1371c66629d506bb0e1c40a6d2c9eab89e0963c6f421670a48e6b0618153f7df84dee59659cf61af70f7ab6d19dc0882ad036fd78310b4b8ff62c956254504a953482e5e423f3624d37ac34ca77c2b65146bd008f2086db795d13c247b10c4df61c686dbe757c821ec1b96ea202d29ec7419f64cdd12adef65188d8e13d8e84db8e47fcfe6993bca7cf1720630244cf7d85a9bb4b376b64daa21d9784200f84633311933e4c4acd8a432e3fd838a4ce367da1c0d144423a2ce3634041ff12bd9307a3c21bb4932f70252b63eba0f86c0556b",
+      "https://job-logs.eascdn.net/production/c0b680ec-91f6-43cb-833a-a5877786adc8/1771655264912-5985f9d7-0b7f-41da-83d7-5976b47a2603.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260221%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260221T071838Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=9c045cf7e15eddc011ddd7b62be9d2661a9d2ed85fa76b20fef5fb66ba72fb1de962a3833352667a57a51ddf1e9a3bb47a893f6318f51a683fb5f0c7132513cbb893d81b67860d6922c12fcc3d9247aa8f1ce938cfa3886c2a5710917a7e13d8fea76a2b5615b8a07210d6dc34336becea4c1202855a10535b63c1accea8952a15edcec3a2350cbca656c4c906af918201a9864da253cc9983523d90808b6aabea25ea6db5aaab5a14b73a14ad17dc39a8a352bb0d5d81f25e6e6975e0509a60c796c93228f919c57440bd87d9cb37a99b80a17e9e156f8820f0c394fa9fa640341b8a844f61912b6ff66f2508760c72c9299f08277bc6590145f000fe129388"
+    ],
+    "project": {
+      "id": "f2f1a5c3-05e4-446f-a38c-e9ab9285e435",
+      "name": "budgeto",
+      "slug": "budgeto",
+      "ownerAccount": {
+        "id": "5db55296-06a9-4105-9f0d-726960a06ade",
+        "name": "adnanc"
+      }
+    },
+    "distribution": "INTERNAL",
+    "buildProfile": "preview",
+    "sdkVersion": "54.0.0",
+    "appVersion": "1.0.0",
+    "appBuildVersion": "1",
+    "runtimeVersion": "1.0.0",
+    "gitCommitHash": "59e8e5a394761f22760215acda961a1c694b76db",
+    "gitCommitMessage": "Branding update: extracted assets from SVG, integrated logo across screens, and updated EAS build config for iOS/Android",
+    "priority": "NORMAL",
+    "createdAt": "2026-02-21T06:27:42.156Z",
+    "updatedAt": "2026-02-21T06:45:26.133Z",
+    "completedAt": "2026-02-21T06:45:20.193Z",
+    "expirationDate": "2026-03-07T06:27:42.193Z",
+    "isForIosSimulator": false,
+    "metrics": {
+      "buildWaitTime": 144,
+      "buildQueueTime": 36899,
+      "buildDuration": 1020652
+    }
+  }
+]

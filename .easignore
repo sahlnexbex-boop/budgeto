@@ -1,0 +1,14 @@
+node_modules
+.expo
+.git
+*.apk
+dist
+build
+temp
+*.log
+ts_errors.txt
+builds.txt
+build_*.json
+build.json
+updates.txt
+log.txt

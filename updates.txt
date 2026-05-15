@@ -1,0 +1,14 @@
+﻿
+Branch:
+Name  preview
+ID    019c7a4e-30b8-7d66-a6f3-b11ca5cd61f1
+
+Recent update groups:
+
+Platforms                 ios
+Runtime Version           1.0.0
+Message                   "iOS update" (1 hour ago by adnanc)
+Code Signing Key          N/A
+Is Roll Back to Embedded  No
+Rollout Percentage        N/A
+Group ID                  bd5016dd-9a1c-4c49-9fd8-9f49c38c28a0

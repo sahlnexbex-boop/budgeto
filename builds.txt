@@ -1,0 +1,19 @@
+﻿
+Builds for @adnanc/budgeto:
+
+ID                       5416d4ab-43fa-4b1d-9f71-944e3a4b74fc
+Platform                 Android
+Status                   finished
+Profile                  preview
+Distribution             internal
+SDK Version              54.0.0
+Version                  1.0.0
+Version code             1
+Commit                   59e8e5a394761f22760215acda961a1c694b76db
+Logs                     https://expo.dev/accounts/adnanc/projects/budgeto/builds/5416d4ab-43fa-4b1d-9f71-944e3a4b74fc
+Application Archive URL  https://expo.dev/artifacts/eas/bofJEU6FUMHBLX82manYwY.apk
+Build Artifacts URL      null
+Fingerprint              2300fa8212f214492eede564df009c25b8e3b844
+Started at               20/2/2026, 11:56:36 am
+Finished at              20/2/2026, 12:14:41 pm
+Started by               adnanc
