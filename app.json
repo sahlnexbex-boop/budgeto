@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.budgeto.app",
+      "package": "com.budgeto.app.v2",
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
     },
